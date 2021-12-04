@@ -1,0 +1,11 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.main-area {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
